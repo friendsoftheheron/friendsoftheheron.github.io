@@ -1,0 +1,6 @@
+@import url("https://friendsoftheheron.github.io/pwa/css/style.css");
+markdown-body {
+  background-color: var(--white);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
